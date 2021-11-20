@@ -1,7 +1,7 @@
 {
   "name": "api-case",
   "version": "1.0.0",
-  "description": "getir case study",
+  "description": "case study",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js",

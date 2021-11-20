@@ -1,4 +1,4 @@
-# Getir Backend Assignment
+# REST API Sample
 REST API for a single endpoint that fetches the data in the
 provided MongoDB collection and return the results in the requested format.
 
